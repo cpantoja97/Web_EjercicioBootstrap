@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+.bg-coffee {
+  background-color: #5e483a;
+  color: white;
+}
+
+.bg-orange {
+  background-color: #ff9517;
+}
+
+.bg-almond {
+  background-color: #cb8f7f;
+}
+
+.bg-pink {
+  background-color: #d26279;
+}
+
+.bg-blue {
+  background-color: #008797;
+}
